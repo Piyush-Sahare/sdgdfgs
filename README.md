@@ -97,3 +97,7 @@ The project uses **Cloudinary** for cloud storage of videos andimages, **MongoDB
 ### 🔐 **Authentication**
 
 *   **JWT (JSON Web Tokens)**: For secure user authentication and authorization.
+  
+### 🧰 **Version Control**
+
+*   **Git**: For tracking changes in source code and collaborating efficiently.
