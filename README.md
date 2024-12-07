@@ -1,12 +1,12 @@
 🎥 YouTube Clone
 ================
 
-A feature-rich **YouTube Clone** application built using the **MERNstack** (MongoDB, Express.js, React, and Node.js) with cloud storage andsecure authentication. This project allows users to upload, stream, andinteract with videos seamlessly, mimicking the core features of YouTube.
+A feature-rich **YouTube Clone** application built using the **MERNstack** (MongoDB, Express.js, React, and Node.js) with cloud storage and secure authentication. This project allows users to upload, stream, and interact with videos seamlessly, mimicking the core features of YouTube.
 
 🚀 Overview
 -----------
 
-This YouTube Clone is a full-stack web application designed to offerfunctionalities similar to YouTube, where users can:
+This YouTube Clone is a full-stack web application designed to offer functionalities similar to YouTube, where users can:
 
 *   Upload videos and manage them.
     
@@ -23,7 +23,7 @@ This YouTube Clone is a full-stack web application designed to offerfunctionalit
 *   Use a clean and responsive user interface for a seamless experience.
     
 
-The project uses **Cloudinary** for cloud storage of videos andimages, **MongoDB** as the database, and **Tailwind CSS**for styling. The backend is powered by **Node.js** and **Express.js**,while the frontend leverages **React** for building an interactiveUI.
+The project uses **Cloudinary** for cloud storage of videos and images, **MongoDB** as the database, and **Tailwind CSS**for styling. The backend is powered by **Node.js** and **Express.js**,while the frontend leverages **React** for building an interactive UI.
 
 ✨ Features
 ----------
